@@ -98,7 +98,7 @@ erDiagram
     CATEGORY ||--|{ RESOURCE : belongs_to
 ```
 
-*说明：一个作者可以发布多个资源 (`publishes`)，一个分类可以包含多个资源 (`belongs_to`)。这是数据结构的一种抽象表示。*
+*说明：一个作者可以发布多个资源 (`publishes`)，一个分类可以包含多个资源 (`belongs_to`)。*
 
 ### 3. 主要资源分类分布 (Pie Chart)
 
@@ -186,7 +186,7 @@ graph LR
     click R "https://github.com/datawhalechina/hugging-llm" "hugging-llm"
 ```
 
-*说明：此流程图展示了“大语言模型”分类下的所有资源项目，节点上的文字是资源的简称或GitHub仓库名。点击每个资源节点可以直接跳转到对应的链接。您可以将此图替换为或复制并修改为其他您感兴趣的分类的资源列表展示。*
+*说明：此流程图展示了“大语言模型”分类下的所有资源项目，节点上的文字是资源的简称或GitHub仓库名。点击每个资源节点可以直接跳转到对应的链接。*
 
 ---
 
