@@ -17,6 +17,10 @@
 
 ## ✨ 探索更多精彩内容：[灏天文库](https://www.aiknowledge.cn)  
 
+![image](https://github.com/user-attachments/assets/88077eb5-5382-4cff-92cb-b6123956c1ab)
+
+![image](https://github.com/user-attachments/assets/d3704685-d1cc-4f13-adca-e45529be04a1)
+
 **灏天文库** 是一个精心打造的技术知识平台，**专注于机器学习、编程、大数据、系统架构**等核心技术领域的**高质量学习资源**。在这里，你可以找到：
 
 *   **本 GitHub 列表中绝大部分资源的在线版本**，排版优化，阅读体验更佳。
