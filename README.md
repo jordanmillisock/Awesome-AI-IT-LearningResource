@@ -2,6 +2,175 @@
 
 欢迎来到我的技术资源精选集！这里汇集了我在学习和工作中收藏的 GitHub 仓库、技术笔记、在线书籍等优秀资源，涵盖了计算机科学、人工智能、软件开发、系统架构等多个领域。希望这份列表也能对您的学习和探索有所帮助。
 
+然后我把以下大部分资源都上传到了我们搭建的平台技术社区-灏天文库里，可以在线查看和学习，里面还包含了更多的学习资源，助力你在互联网的成长。
+![image](https://github.com/user-attachments/assets/74c4af7f-04c2-4209-bafc-6f03b854b30c)
+**灏天文库：技术知识库，专注于机器学习、编程、大数据等领域的学习资源。**
+[Link](https://www.aiknowledge.cn)  
+
+### 1. 资源分类概览 (Mindmap)
+
+这个思维导图展示了资源的顶级分类结构，让您可以快速了解主要涵盖的技术领域。
+
+```mermaid
+mindmap
+  root((技术资源精选集))
+    人工智能与机器学习
+      大语言模型 (LLM)
+      深度学习与机器学习
+      计算机视觉
+      自然语言处理
+      强化学习
+      推荐系统
+      图神经网络
+      数据科学
+    计算机科学基础
+      操作系统
+      计算机网络
+      数据结构与算法
+      计算机组成原理
+    编程语言与开发
+      通用语言
+      Web 开发
+      游戏开发
+      底层技术
+      开发工具
+    系统设计与架构
+      系统设计原理
+      云原生与容器
+      网络架构 (SDN)
+      分布式系统
+    数据技术
+      数据库
+      大数据
+      消息队列
+    安全
+      通用安全
+      区块链安全
+    区块链与 Web3
+      智能合约
+      零知识证明 (ZK)
+      链上分析
+    物联网与传感器
+    特定领域与应用
+      自动驾驶
+      光谱学
+      信号/多媒体处理
+      数学/优化
+      图形学 (OpenGL)
+      MCP
+      运筹学
+    职业发展与学习方法
+      面试准备
+      学习方法
+      其他
+```
+
+*说明：这个思维导图展示了资源收集的主要技术分类及其子分类，帮助您一览资源的广度。*
+
+### 2. 资源、作者、分类关系 (Entity-Relationship Diagram)
+
+这个 ER 图展示了资源（Resource）、作者（Author）和分类（Category）之间的抽象关系。
+
+```mermaid
+erDiagram
+    AUTHOR ||--|{ RESOURCE : publishes
+    CATEGORY ||--|{ RESOURCE : belongs_to
+```
+
+*说明：一个作者可以发布多个资源 (`publishes`)，一个分类可以包含多个资源 (`belongs_to`)。这是数据结构的一种抽象表示。*
+
+### 3. 主要资源分类分布 (Pie Chart)
+
+这个饼状图展示了您收集的资源在主要技术分类上的大致分布比例。为了图表简洁，这里选取了出现次数较多的几个分类，并将其他合并。
+
+```mermaid
+pie title 资源分类分布 (Top Categories)
+    "大语言模型" : 17
+    "区块链" : 14
+    "深度学习" : 6
+    "自然语言处理" : 5
+    "机器学习" : 5
+    "编程语言" : 4
+    "数据结构" : 4
+    "数据库" : 3
+    "docker" : 3
+    "系统设计" : 3
+    "物联网技术" : 3
+    "传感器技术" : 3
+    "其他" : 50
+```
+
+*说明：该图显示了不同技术领域资源的数量分布。请注意，这里的统计是基于您提供的列表中每行主分类的计数，一个资源可能被列在多个分类下，或者同一个作者的笔记涵盖多个分类（在原始列表中显示为同一个GitHub名称下多个分类）。“其他”分类包含了所有出现次数较少的分类的总和。*
+
+### 4. 特定分类资源列表 (Flowchart)
+
+以“大语言模型”分类为例，这个流程图展示了该分类下的具体资源项目。您可以点击节点链接直接访问资源地址。
+
+```mermaid
+graph LR
+    A[大语言模型]
+
+    B(LLMs-from-scratch-CN)
+    C(LLMForEverybody)
+    D(InternLM_openNotebook)
+    E(tiny-universe)
+    F(llm-deploy)
+    G(handy-ollama)
+    H(GPT-Notes)
+    I(LLMsNineStoryDemonTower)
+    J(aigc)
+    K(dive-into-llms)
+    L(llm_interview_note)
+    M(mllm_interview_note)
+    N(llm-cookbook)
+    O(so-large-lm)
+    P(unlock-hf)
+    Q(smart-prompt)
+    R(hugging-llm)
+
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
+    A --> G
+    A --> H
+    A --> I
+    A --> J
+    A --> K
+    A --> L
+    A --> M
+    A --> N
+    A --> O
+    A --> P
+    A --> Q
+    A --> R
+
+    click B "https://github.com/MLNLP-World/LLMs-from-scratch-CN" "LLMs-from-scratch-CN"
+    click C "https://github.com/luhengshiwo/LLMForEverybody" "LLMForEverybody"
+    click D "https://github.com/SaaRaaS-1300/InternLM_openNotebook" "InternLM_openNotebook"
+    click E "https://github.com/datawhalechina/tiny-universe" "tiny-universe"
+    click F "https://github.com/datawhalechina/llm-deploy" "llm-deploy"
+    click G "https://github.com/datawhalechina/handy-ollama" "handy-ollama"
+    click H "https://github.com/gotonote/GPT-Notes" "GPT-Notes"
+    click I "https://github.com/km1994/LLMsNineStoryDemonTower" "LLMsNineStoryDemonTower"
+    click J "https://github.com/phodal/aigc" "aigc"
+    click K "https://github.com/Lordog/dive-into-llms" "dive-into-llms"
+    click L "https://github.com/wdndev/llm_interview_note" "llm_interview_note"
+    click M "https://github.com/wdndev/mllm_interview_note" "mllm_interview_note"
+    click N "https://github.com/datawhalechina/llm-cookbook" "llm-cookbook"
+    click O "https://github.com/datawhalechina/so-large-lm" "so-large-lm"
+    click P "https://github.com/datawhalechina/unlock-hf" "unlock-hf"
+    click Q "https://github.com/datawhalechina/smart-prompt" "smart-prompt"
+    click R "https://github.com/datawhalechina/hugging-llm" "hugging-llm"
+```
+
+*说明：此流程图展示了“大语言模型”分类下的所有资源项目，节点上的文字是资源的简称或GitHub仓库名。点击每个资源节点可以直接跳转到对应的链接。您可以将此图替换为或复制并修改为其他您感兴趣的分类的资源列表展示。*
+
+---
+
+您可以将这些 Mermaid 代码块添加到您的 README.md 文件中，并在其前后加上文字说明，以增强可读性。
+
 **资源分类:**
 
 *   [人工智能与机器学习](#人工智能与机器学习)
